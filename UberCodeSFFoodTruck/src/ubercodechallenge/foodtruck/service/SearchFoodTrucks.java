@@ -1,4 +1,4 @@
-package ubercodechellenge.foodtruck.service;
+package ubercodechallenge.foodtruck.service;
 
 /*
  * @Author: Bhavi Joshi
@@ -16,7 +16,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-import ubercodechellenge.foodtruck.pojo.LocationObjects;
+import ubercodechallenge.foodtruck.pojo.LocationObjects;
 
 public class SearchFoodTrucks {
 

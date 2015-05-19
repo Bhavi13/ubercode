@@ -1,4 +1,4 @@
-package ubercodechellenge.foodtruck.servlet;
+package ubercodechallenge.foodtruck.servlet;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,8 +12,8 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import ubercodechellenge.foodtruck.pojo.LocationObjects;
-import ubercodechellenge.foodtruck.service.SearchFoodTrucks;
+import ubercodechallenge.foodtruck.pojo.LocationObjects;
+import ubercodechallenge.foodtruck.service.SearchFoodTrucks;
 
 /**
  * Servlet implementation class SearchServlet

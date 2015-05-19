@@ -1,4 +1,4 @@
-package ubercodechellenge.foodtruck.pojo;
+package ubercodechallenge.foodtruck.pojo;
 
 /*
  * Author: Bhavi Joshi
