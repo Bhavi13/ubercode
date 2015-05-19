@@ -26,7 +26,7 @@ public class SearchFoodTrucks {
 		ArrayList<String[]> allTrucksByFoodType = new ArrayList<>();
 		ArrayList<LocationObjects> closetsNLocationObjList = new ArrayList<>();
 		
-		String csvFile ="/ubercodechellenge/foodtruck/csv/Mobile_Food_Facility_Permit.csv";
+		String csvFile ="/ubercodechallenge/foodtruck/csv/Mobile_Food_Facility_Permit.csv";
 		BufferedReader br = null;
 		String line ="";
 		String splitByComma =",";
